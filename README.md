@@ -5,15 +5,15 @@ This is the backend API for the Trip Log application, built with Django and Djan
 
 ## Requirements
 
-asgiref==3.8.1
-Django==5.2
-django-cors-headers==4.7.0
-djangorestframework==3.16.0
-djangorestframework_simplejwt==5.5.0
-PyJWT==2.9.0
-sqlparse==0.5.3
-tzdata==2025.2
-whitenoise==6.9.0
+- asgiref==3.8.1
+- Django==5.2
+- django-cors-headers==4.7.0
+- djangorestframework==3.16.0
+- djangorestframework_simplejwt==5.5.0
+- PyJWT==2.9.0
+- sqlparse==0.5.3
+- tzdata==2025.2
+- whitenoise==6.9.0
 
 ## Installation
 
