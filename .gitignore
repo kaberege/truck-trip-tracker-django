@@ -1,0 +1,44 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django-specific files
+*.log
+*.pot
+*.pyc
+#*.db
+#*.sqlite3
+#db.sqlite3
+#media
+#staticfiles
+
+# Virtual environment (for local development)
+truck/
+venv/
+.env/
+
+# Environment-specific files
+*.env
+*.local
+*.development
+*.production
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Heroku specific
+.heroku/
+*.env (if you're using environment variables locally)
+
+# MacOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Backup files
+*~
